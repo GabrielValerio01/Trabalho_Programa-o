@@ -1,0 +1,111 @@
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\batata.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\combo.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\lanche.jpg
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\refrigerante.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.exe
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.deps.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.runtimeconfig.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_Content.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.lref
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\App.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.g.resources
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\refint\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.genruntimeconfig.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5º Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\ref\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_Content.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.lref
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\refint\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\batata.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\combo.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\lanche.jpg
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\refrigerante.png
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.exe
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.deps.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.runtimeconfig.json
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.g.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\App.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.baml
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.g.resources
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CopyComplete
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.genruntimeconfig.cache
+C:\Users\Vinícius\Desktop\Estudos\Estudos 5 Semestre\Proframação IV\programacao-iv-aula-02-03-2023-main\Venda.Iterativa\obj\Debug\net6.0-windows\ref\Venda.Iterativa.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\batata.png
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\combo.png
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\lanche.jpg
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Imagens\refrigerante.png
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.exe
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.deps.json
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.runtimeconfig.json
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\Microsoft.Expression.Interactions.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.AssemblyReference.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.g.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.g.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_Content.g.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa_MarkupCompile.lref
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\App.baml
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucListarProdutos.baml
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\UserControls\ucReceber.baml
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.g.resources
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfoInputs.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.AssemblyInfo.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.csproj.CopyComplete
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\refint\Venda.Iterativa.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.pdb
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\Venda.Iterativa.genruntimeconfig.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Venda.Iterativa\obj\Debug\net6.0-windows\ref\Venda.Iterativa.dll

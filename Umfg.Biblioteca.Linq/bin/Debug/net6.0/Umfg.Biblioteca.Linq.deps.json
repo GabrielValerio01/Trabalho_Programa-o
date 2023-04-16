@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Umfg.Biblioteca.Linq/1.0.0": {
+        "runtime": {
+          "Umfg.Biblioteca.Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Umfg.Biblioteca.Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

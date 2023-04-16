@@ -1,0 +1,15 @@
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\bin\Debug\net6.0\Umfg.Biblioteca.Linq.exe
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\bin\Debug\net6.0\Umfg.Biblioteca.Linq.deps.json
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\bin\Debug\net6.0\Umfg.Biblioteca.Linq.runtimeconfig.json
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\bin\Debug\net6.0\Umfg.Biblioteca.Linq.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\bin\Debug\net6.0\Umfg.Biblioteca.Linq.pdb
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.csproj.AssemblyReference.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.AssemblyInfoInputs.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.AssemblyInfo.cs
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\refint\Umfg.Biblioteca.Linq.dll
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.pdb
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\Umfg.Biblioteca.Linq.genruntimeconfig.cache
+C:\Users\gabriel.valerio\Desktop\Trabalho_Programação\Umfg.Biblioteca.Linq\obj\Debug\net6.0\ref\Umfg.Biblioteca.Linq.dll
